@@ -7,7 +7,7 @@ Inspired, and modified from, [postcss-color-function](https://github.com/postcss
 ## Installation
 
 ```console
-$ npm install git://github.com/adam-h/postcss-sass-color-functions.git
+$ npm install git://github.com/Bropwnz0r/postcss-sass-color-functions.git
 ```
 
 ## Usage
